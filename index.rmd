@@ -240,6 +240,12 @@ The method we employ is Gradient Boosting. The idea is to create a strong model 
 <img src="iteration.png" height=500>
 </div>
 
+## Implementation
+
+<div align="center">
+<img src="log_loss.png" height=500>
+</div>
+
 ## Evaluation Criterion
 
 - We will be evaluting our result using Multiple-Log-Loss function
